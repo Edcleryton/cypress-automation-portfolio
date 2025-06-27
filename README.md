@@ -82,8 +82,13 @@ A qualidade desta suíte de testes é garantida pela aplicação de técnicas fo
 
 ## 👨‍💻 Autor
 
-Feito com ❤️ por ****
-
-- **LinkedIn:** - **GitHub:** ```
-
-Lembre-se de preencher suas informações pessoais onde estão os marcadores `` e depois subir o arquivo para o seu GitHub com os comandos `git add`, `git commit` e `git push`.
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/Edcleryton">
+        <img src="https://avatars.githubusercontent.com/u/134793465?v=4" width="50px" alt="Edcleryton Silva"/><br />
+        <sub><b>Edcleryton Silva</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
