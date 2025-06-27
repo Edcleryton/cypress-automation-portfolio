@@ -1,0 +1,27 @@
+{
+  "name": "cypress-automation-portfolio",
+  "version": "1.0.0",
+  "description": "Projeto de automação de testes End-to-End (E2E) com Cypress para a aplicação web Sauce Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edcleryton/cypress-automation-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edcleryton/cypress-automation-portfolio/issues"
+  },
+  "homepage": "https://github.com/Edcleryton/cypress-automation-portfolio#readme",
+  "devDependencies": {
+    "cypress": "^14.5.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.0",
+    "mocha": "^11.7.1"
+  }
+}
