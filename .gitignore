@@ -1,0 +1,21 @@
+# Dependências do Node.js
+# Este diretório é recriado com 'npm install' e pode ter gigabytes de tamanho.
+node_modules/
+
+# Arquivos de log e de ambiente
+# Nunca comitar logs ou variáveis de ambiente com senhas/chaves.
+npm-debug.log
+.env
+
+# Artefatos gerados pelo Cypress
+# Estes arquivos são resultados da execução dos testes, não o código-fonte deles.
+cypress/downloads/
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+
+# Arquivos de configuração de IDE e Sistema Operacional
+# Mantém o repositório limpo de configurações pessoais de ambiente.
+.vscode/
+.idea/
+.DS_Store
